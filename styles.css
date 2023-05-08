@@ -1,0 +1,139 @@
+#retangulo {
+    width: 285px;
+    height: 480px;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid;
+  }
+
+  #retangulo1 {
+    width: 240px;
+    height: 40px;
+    background-color: #888888;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    border-radius: 10px;
+    margin-top: 120px;
+  }
+
+  #retangulo2 {
+    width: 240px;
+    height: 40px;
+    background-color: #888888;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    border-radius: 10px;
+    margin-top: 180px;
+  }
+
+  #retangulo3 {
+    width: 240px;
+    height: 40px;
+    background-color: #888888;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    border-radius: 10px;
+    margin-top: 240px;
+  }
+
+  #retangulo4 {
+    width: 240px;
+    height: 40px;
+    background-color: #888888;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    border-radius: 10px;
+    margin-top: 300px;
+  }
+
+  #retangulo5 {
+    width: 240px;
+    height: 40px;
+    background-color: #888888;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    border-radius: 10px;
+    margin-top: 360px;
+  }
+
+  #retangulo6 {
+    width: 240px;
+    height: 40px;
+    background-color: #888888;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    border-radius: 10px;
+    margin-top: 420px;
+  }
+  .inner-retangulo{
+    position:absolute;
+    top: 10px;
+    left: 5px;
+    width: 35px;
+    height: 28px;
+    border: 0.1px solid black;
+    border-radius: 10px;
+    margin-top: -5px;
+    background-color: white;
+    
+}
+.texto1 .texto2 .texto3 .texto4 .texto5 .texto6{
+
+    color: black;
+    font-size: 12px;
+    text-align: center;
+
+}
+.code{
+    justify-items: center;
+    margin-top: 10px;
+    font-size: 13px;
+    margin-top: 7px;
+    text-align: center;
+}
+
+.texto1 {
+    color: black;
+    font-size: 12px;
+    text-align: center;
+
+  }
+  
+  .texto2{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .texto3{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+
+    
+
+  }
+  .texto4{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+
+  }
+  .texto5{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+  }
+  .texto6{
+    color: black;
+    font-size: 12px;
+    text-align: center;
+
+  }
+
